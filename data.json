@@ -50,14 +50,16 @@
       "ans": "Fish is filled with omega-3 fatty acids and vitamins such as D and B2 (riboflavin). Fish is rich in calcium and phosphorus and a great source of minerals, such as iron, zinc, iodine, magnesium, and potassium. The American Heart Association recommends eating fish at least two times per week as part of a healthy diet."
     }
   ],
-  "topics": [
+ "topics": [
     {
       "id": 1,
+      "image": "https://ibb.co/92pwGyT",
       "title": "TOPICS YOU CAN'T MISS",
       "ans": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the."
     },
     {
       "id": 2,
+      "image": "https://ibb.co/ftLJzkf",
       "ques": "HOW TO CLEAN/CUT YOUR SEAFOOD",
       "ans": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the."
     }
