@@ -2,15 +2,18 @@
   "categories": [
     {
       "id": 1,
-      "item": "FISH"
+      "item": "FISH",
+      "image": "https://ibb.co/1bGrL1q"
     },
      {
       "id": 2,
-      "item": "CRUSTACEANS"
+      "item": "CRUSTACEANS",
+      "image": "https://ibb.co/dtfjNWs"
     },
       {
       "id": 3,
-      "item": "EXOTIC"
+      "item": "EXOTIC",
+      "image": "https://ibb.co/L92MtpY"
     }
   ],
   "faq": [
