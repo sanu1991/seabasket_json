@@ -37,17 +37,17 @@
     {
       "id": 1,
       "title": "The right quality",
-      "ans": "The skin should be bright and shiny with close-fitting scales. Dry, dull flesh and loose scales are signs of age. The eyes should be clear and bulging; if the fish has sunken or cloudy eyes, look for a fresher specimen. Gills should be reddish and damp, not sticky."
+      "desc": "The skin should be bright and shiny with close-fitting scales. Dry, dull flesh and loose scales are signs of age. The eyes should be clear and bulging; if the fish has sunken or cloudy eyes, look for a fresher specimen. Gills should be reddish and damp, not sticky."
     },
     {
       "id": 2,
-      "ques": "The right time",
-      "ans": "Really high and really low water temperatures reduce the amount of oxygen in the water, making fish less active and picky about when and what they eat. When it comes to finding the best fishing times, a good starting point is to avoid extreme temperatures."
+      "title": "The right time",
+      "desc": "Really high and really low water temperatures reduce the amount of oxygen in the water, making fish less active and picky about when and what they eat. When it comes to finding the best fishing times, a good starting point is to avoid extreme temperatures."
     },
      {
       "id": 3,
-      "ques": "The basis of a balanced diet",
-      "ans": "Fish is filled with omega-3 fatty acids and vitamins such as D and B2 (riboflavin). Fish is rich in calcium and phosphorus and a great source of minerals, such as iron, zinc, iodine, magnesium, and potassium. The American Heart Association recommends eating fish at least two times per week as part of a healthy diet."
+      "title": "The basis of a balanced diet",
+      "desc": "Fish is filled with omega-3 fatty acids and vitamins such as D and B2 (riboflavin). Fish is rich in calcium and phosphorus and a great source of minerals, such as iron, zinc, iodine, magnesium, and potassium. The American Heart Association recommends eating fish at least two times per week as part of a healthy diet."
     }
   ],
  "topics": [
