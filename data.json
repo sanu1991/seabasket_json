@@ -3,17 +3,17 @@
     {
       "id": 1,
       "item": "FISH",
-      "image": "https://ibb.co/1bGrL1q"
+      "image": "https://i.ibb.co/cxh610F/fish.png"
     },
      {
       "id": 2,
       "item": "CRUSTACEANS",
-      "image": "https://ibb.co/dtfjNWs"
+      "image": "https://i.ibb.co/W0HGrxN/crustaceans.png"
     },
       {
       "id": 3,
       "item": "EXOTIC",
-      "image": "https://ibb.co/L92MtpY"
+      "image": "https://i.ibb.co/1Rw3q27/exotic.png"
     }
   ],
   "faq": [
@@ -53,15 +53,15 @@
  "topics": [
     {
       "id": 1,
-      "image": "https://ibb.co/92pwGyT",
+      "image": "https://i.ibb.co/S06QJVn/topics.jpg",
       "title": "TOPICS YOU CAN'T MISS",
-      "ans": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the."
+      "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the."
     },
     {
       "id": 2,
-      "image": "https://ibb.co/ftLJzkf",
-      "ques": "HOW TO CLEAN/CUT YOUR SEAFOOD",
-      "ans": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the."
+      "image": "https://i.ibb.co/wCjtFSV/topics1.jpg",
+      "title": "HOW TO CLEAN/CUT YOUR SEAFOOD",
+      "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the."
     }
   ]
 }
